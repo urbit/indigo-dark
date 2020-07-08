@@ -1,6 +1,6 @@
-# indigo-light
+# indigo-dark
 
-[![npm (scoped)](https://img.shields.io/npm/v/@tlon/indigo-tokens?style=flat)](https://www.npmjs.com/package/@tlon/indigo-tokens)
+[![npm (scoped)](https://img.shields.io/npm/v/@tlon/indigo-dark?style=flat)](https://www.npmjs.com/package/@tlon/indigo-dark)
 
 Indigo Dark is a [`styled-system`](https://styled-system.com/theme-specification) compatible dark theme for [Indigo React](https://www.github.com/urbit/indigo-react).
 
